@@ -1,8 +1,8 @@
-### ZT411のWLAN 優先バンド変更方法
+### ZT411のWLAN 優先バンド設定確認と変更方法
 
 <br>
 
-1. 液晶タッチパネルにて下記選択をする。
+1. 液晶タッチパネルにて下記選択をする。現在の設定バンドが確認できる。
    [接続] > [WLAN] > [WLAN バンド]
 
     <img src="https://docs.zebra.com/content/tcm/jp/ja/printers/industrial/zt411-zt421-industrial-printer-user-guide/jcr:content/assetversioncopies/7b6b469d-74d2-4280-91b9-5b48a22f5e03.original.png" width="30%">
